@@ -1,0 +1,5 @@
+[run]
+include = sweet_desert/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
